@@ -1,9 +1,9 @@
 # JSON Resume Schema
 
-[![GitHub Releases](https://badgen.net/github/tag/jsonresume/resume-schema)](https://github.com/jsonresume/resume-schema/releases)
+[![GitHub Releases](https://badgen.net/github/tag/shaunagordon/resume-schema)](https://github.com/shaunagordon/resume-schema/releases)
 [![NPM Release](https://badgen.net/npm/v/resume-schema)](https://www.npmjs.com/package/resume-schema)
-[![Latest Status](https://github.com/jsonresume/resume-schema/workflows/Latest/badge.svg)](https://github.com/vanillawc/wc-template/actions)
-[![Release Status](https://github.com/jsonresume/resume-schema/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-template/actions)
+[![Latest Status](https://github.com/shaunagordon/resume-schema/workflows/Latest/badge.svg)](https://github.com/vanillawc/wc-template/actions)
+[![Release Status](https://github.com/shaunagordon/resume-schema/workflows/Release/badge.svg)](https://github.com/vanillawc/wc-template/actions)
 
 Standard, Specification, Schema
 

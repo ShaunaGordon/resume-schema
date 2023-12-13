@@ -1,13 +1,17 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "$schema": "https://raw.githubusercontent.com/shaunagordon/resume-schema/v1.1.0/schema.json",
   "basics": {
     "name": "Richard Hendriks",
+    "pronouns": [
+      "they",
+      "theirs"
+    ],
     "label": "Programmer",
     "image": "",
     "email": "richard.hendriks@mail.com",
     "phone": "(912) 555-4321",
     "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Richard hails from Tulsa. They have earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, they worked for Hooli as a part time software developer. While their work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, their non-work interests range widely, everything from quantum computing to chaos theory. They could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -17,7 +21,7 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "Bluesky",
         "username": "neutralthoughts",
         "url": ""
       },
@@ -128,7 +132,7 @@
   "references": [
     {
       "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "reference": "It is my pleasure to recommend Richard, their performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ],
   "projects": [
@@ -137,7 +141,7 @@
       "description": "A mapping engine that misguides you",
       "highlights": [
         "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
+        "Built by all women/nonbinary team of newbie programmers",
         "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
       ],
       "keywords": [
@@ -154,8 +158,8 @@
     }
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/sample.resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "canonical": "https://raw.githubusercontent.com/shaunagordon/resume-schema/master/sample.resume.json",
+    "version": "v1.1.0",
+    "lastModified": "2023-12-12T00:06:00"
   }
 }

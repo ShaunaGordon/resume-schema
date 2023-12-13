@@ -21,6 +21,15 @@
         "name": {
           "type": "string"
         },
+        "pronouns": {
+          "type": "array",
+          "description": "A list of preferred pronouns, each one as its own string.",
+          "additionalItems": false,
+          "items": {
+            "type": "string",
+            "description": "e.g. ['she','her','hers'], or a URL to a website describing them"
+          }
+        },
         "label": {
           "type": "string",
           "description": "e.g. Web Developer"

@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsonresume/resume-schema.git"
+    "url": "git://github.com/shaunagordon/resume-schema.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jsonresume/resume-schema/issues"
+    "url": "https://github.com/shaunagordon/resume-schema/issues"
   },
   "files": [
     "sample.resume.json",
