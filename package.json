@@ -4,10 +4,10 @@
   "description": "JSON Resume Schema",
   "main": "validator.js",
   "scripts": {
-    "test": "npm run validate && npm run test-units",
+    "test": "yarn validate && yarn test-units",
     "validate": "ajv validate -s node_modules/json-metaschema/draft-07-schema -d schema",
     "test-units": "tape **/*.spec.js | tap-spec",
-    "preversion": "npm test",
+    "preversion": "yarn test",
     "postversion": "git push --follow-tags"
   },
   "repository": {
